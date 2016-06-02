@@ -1,0 +1,7 @@
+[user]
+	name = Macaully James Muir
+	email = dev@macaullyjamesmuir.com
+[core]
+	editor = vim
+[push]
+	default = simple
