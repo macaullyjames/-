@@ -1,2 +1,2 @@
-# -
+# Home
 Config files etc.
